@@ -19,3 +19,6 @@ class automovil():
 micarro=automovil("jetta","si")
 print(micarro.quemarca())
 print(micarro.avanza())
+
+
+print("que pedo puto")
